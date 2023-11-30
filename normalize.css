@@ -6,4 +6,4 @@
 
 .f1{font-family: 'Black Han Sans', sans-serif; font-size: 300%; text-align: center;}
 
-.center{display: block; text-align:center; max-width:100%; height:auto;}
+.center{text-align:center; margin: 0px auto; max-width:850px;}
